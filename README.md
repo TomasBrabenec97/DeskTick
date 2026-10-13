@@ -9,10 +9,14 @@ Desktop, and remembers its place. Around 1 MB, under 10 MB of RAM, twenty langua
 
 ## 🎬 Preview
 
+Watch DeskTick in action:  
+
+[![Fly Photos](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuQBlrNrhKJA)](https://www.youtube.com/watch?v=uQBlrNrhKJA)
+
+---
+
 <!-- Drop a screen recording or screenshot here -->
 <img width="1832" height="2104" alt="minclock-faces" src="https://github.com/user-attachments/assets/1f3a94cb-e5ae-411d-b344-797fcc88d4e3" />
-
-
 
 ## ✨ Features
 
