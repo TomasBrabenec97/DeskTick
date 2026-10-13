@@ -11,7 +11,7 @@ Desktop, and remembers its place. Around 1 MB, under 10 MB of RAM, twenty langua
 
 Watch DeskTick in action:  
 
-[![Fly Photos](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuQBlrNrhKJA)](https://www.youtube.com/watch?v=uQBlrNrhKJA)
+[![DeskTick](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuQBlrNrhKJA)](https://www.youtube.com/watch?v=uQBlrNrhKJA)
 
 ---
 
